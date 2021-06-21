@@ -1,0 +1,45 @@
+.content {
+  padding: 0 8rem;
+}
+.content p {
+  text-indent: 2em;
+}
+.content h2 {
+  text-align: center;
+}
+.content img {
+  width: 75%;
+  height: auto;
+}
+.docs-img {
+  text-align: center;
+}
+ul {
+  list-style: none;
+}
+
+.job {
+  background: #f1f1f1;
+}
+.job #Content h3{
+  text-align: center;
+}
+.job #Content p{
+  font-size: 1.5rem;
+  line-height: 3rem;
+  text-align: center;
+}
+.job .section_title p{
+  margin-top: 30px;
+  font-size: 1.5rem;
+  line-height: 3rem;
+}
+.job i{
+  font-size: 1.5rem;
+  line-height: 3rem;
+  color: #f39c12;
+}
+.job li{
+  font-size: 1.5rem;
+  line-height: 3rem;
+}
